@@ -1,4 +1,4 @@
-### Hi I'm Rinat. 
+### Hi, I'm Rinat. 
 Currently a third-year student at Dokuz Eylul University.
 
 

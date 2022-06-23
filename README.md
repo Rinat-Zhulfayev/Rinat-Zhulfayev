@@ -1,6 +1,6 @@
 ### Hi I'm Rinat. Currently a third-year student at Dokuz Eylul University
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinat-Zhulfayev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinat-Zhulfayev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
